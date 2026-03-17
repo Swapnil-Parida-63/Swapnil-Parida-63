@@ -46,7 +46,7 @@ const swapnilParida = {
   currentRole: "Null",
   previousRole: "Null",
 
-  workingOn: [" "fullstack projects", "Extensions", "LSP" "],
+  workingOn: ["fullstack projects", "Extensions", "LSP"],
   learning: ["AI Agents", "DevOps", "Bash"],
 
   funFact:
