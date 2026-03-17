@@ -1,18 +1,252 @@
-# 💫 About Me:
-Hello, I'm a fullstack developer, currently in the learning phase while building real world projects
+<div align="center">
 
+<!-- Animated Header -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Swapnil Parida) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnilparida7@gamil.com) 
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Swapnil-Parida-63&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Swapnil-Parida-63&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-Parida-63&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h1>Swpanil Parida</h1>
+<h3>🚀 Building AI-Powered Solutions</h3>
+<p>
+  <b>Full-Stack Developer </b><br>
+  Full Stack Applicatoins • Scalable Backends • VS code Extension
+</p>
+
+<!-- Social Badges -->
+<p>
+  <a href="mailto:swapnilparida7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="www.linkedin.com/in/swapnilparida/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Swapnil-Parida-63" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<!-- Visitor Badge & Profile Views -->
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Swapnil-Parida-63.Swapnil-Parida-63&amp;color=58a6ff&amp;logo=github" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/Swapnil-Parida-63?label=Followers&amp;style=social" alt="GitHub Badge"/>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Swapnil-Parida-63&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+```typescript
+const swapnilParida = {
+  location: "Balasore, India 🇮🇳",
+  education: "B.Tech CSE @ BCET | GPA: 8.5/10",
+  currentRole: "Null",
+  previousRole: "Null",
+
+  workingOn: [" "fullstack projects", "Extensions", "LSP" "],
+  learning: ["AI Agents", "DevOps", "Bash"],
+
+  funFact:
+    "Max Verstappen still holds the record of the youngest driver ever to win a race in F1",
+};
+```
+
+<div align="center">
+<!-- <p> ### 💼 Professional Experience (I'll uncomment this when I have some professional exp)</p> -->
+
+
+</div>
+
+<!-- <table>
+<tr>
+<td width="50%" valign="top">
+
+#### org name
+
+**job role** | _time goes here_
+
+- something goes here
+- something goes here
+- something goes here
+- something goes here
+
+</td>
+<td width="50%" valign="top">
+
+#### org name
+
+**job role** | _time_
+
+- something goes here
+- something goes here
+- something goes here
+- something goes here
+
+</td>
+</tr>
+</table> -->
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Core Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,go" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
+
+### AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&amp;logo=google&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&amp;logo=llama&amp;logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&amp;logo=database&amp;logoColor=white" /> -->
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vercel" />
+</p>
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌟 [Evolv](link will be here shortly)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Swapnil-Parida-63/Evolv)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white)]()
+
+**AI-Powered devloper industry interface**
+
+🔹 AI reusme analysis and summarisation using llama  
+🔹 Job recommendation and skill gap analysis 
+🔹 Roadmap creation for skill gap
+🔹 Chat bot
+🔹 Job posting and one on one interactions
+🔹 Job application summarisation and so on
+
+**Tech:** Llama, React.js, Express.js, MongoDB, s3, EC2 
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ [Chronicles of Fool](https://blog-page-sandy-two.vercel.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Swapnil-Parida-63/BlogPage)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://blog-page-sandy-two.vercel.app/)
+
+**My blog page**
+
+🔹 Here I mention all about my learnings and document them
+
+**Tech:** React, Express, MongoDB, Cloudinary, Vercel
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swapnil-Parida-63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=21600"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-Parida-63&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-Parida-63&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;langs_count=8"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-Parida-63&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swapnil-Parida-63/Swapnil-Parida-63/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swapnil-Parida-63/Swapnil-Parida-63/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Swapnil-Parida-63/Swapnil-Parida-63/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Skills Progress
+
+| Skill                  | Experience               |
+| ---------------------- | ------------------------ |
+| Full-Stack Development | ██████████████░░░░░░ 70% |
+| AI/ML Integration      | ██████████░░░░░░░░░░ 50% |
+| Backend Architecture   | ████████████░░░░░░░░ 60% |
+| DevOps & Cloud         | ████████████░░░░░░░░ 60% |
+| System Design          | █████░░░░░░░░░░░░░░░ 30% |
+
+</div>
+
+---
+
+## 📫 Let's Collaborate!
+
+<div align="center">
+
+**I'm always open to:**
+
+- 🚀 Innovative projects
+- 💡 Full-stack development opportunities
+- 🤝 Open source collaborations
+
+### 📧 Reach me at: [swapnilparida7@gmail.com](mailto:swapnilparida7@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ From [Swapnil-Parida-63](https://github.com/Swapnil-Parida-63) | Last Updated: March 2026**
+
+</div>
