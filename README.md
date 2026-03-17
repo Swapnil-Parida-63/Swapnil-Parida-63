@@ -179,7 +179,6 @@ const swapnilParida = {
 </div>
 
 ---
----
 
 ## 📊 GitHub Analytics
 
@@ -194,8 +193,6 @@ const swapnilParida = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swapnil-Parida-63&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff" width="100%"/>
 
 </div>
-
----
 
 ---
 
